@@ -1,2 +1,2 @@
-# Widhya_Internship
-Codes for the Windhya Winternship program's Data Science track for Jan-Feb 2021.
+# Widhya_Internship 2021
+Here are the codes for the four week Windhya Winternship program's Data Science track from Jan-Feb 2021.
